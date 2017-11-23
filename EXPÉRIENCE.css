@@ -1,0 +1,70 @@
+body{
+  background-image: url('https://data.whicdn.com/images/122327977/original.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.red{
+  height: 40%;
+  margin: 0;
+}
+
+
+h1{
+
+  color:#FF00BF;
+  font-size: 40px;
+  margin-left: 30%;
+  margin-right: 37%;
+}
+.text{
+  color: #0510D1;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-bottom: 60px;
+}
+
+.text1{
+  color: #FA58F4;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-bottom: 60px;
+}
+
+.text2{
+  color: #0000FF;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-bottom: 60px;
+}
+
+.bulle1{
+  background-image: url('http://papillondavril.p.a.pic.centerblog.net/58e10a96.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 0px;
+  height: 300px;
+  width: 300px;
+}
+
+.bulle2{
+  background-image: url('http://papillondavril.p.a.pic.centerblog.net/58e10a96.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 20px;
+  height: 300px;
+  width: 300px;
+  margin-left: 100px;
+
+}
+
+.bulle3{
+  background-image: url('http://papillondavril.p.a.pic.centerblog.net/58e10a96.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  width: 300px;
+
+  margin-top: -10px;
+  margin-left: 900px;
+}

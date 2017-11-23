@@ -1,0 +1,41 @@
+header
+{
+  background-color:url('http://data.whicdn.com/images/52252813/large.jpg');
+  background-position: center;
+  height: 30px;
+  margin-left: 30%;
+}
+#progress{
+  width: 300px;
+  margin: auto;
+  color:#orange;
+  padding-top: 10px;
+}
+
+
+progress{
+    border-radius:10px;
+    background-size: 300px 20px, auto, auto;
+    background-position: -300px 0, top, top;
+    background-position: top right, top, top;
+    box-shadow: 0 1px 0 rgba(255,255,255,.5) inset,
+                0 -1px 0 rgba(0,0,0,.8) inset,
+                0 0 2px black;
+                border-radius:10px;
+                    background-color: yellow;
+                    color:black;
+
+
+}
+progress::-moz-progress-bar { background: purple; }
+
+body{
+  background-image: url('http://data.whicdn.com/images/268320941/original.gif');
+}
+
+strong{
+  color: yellow;
+}
+h1{
+  color: purple;
+}

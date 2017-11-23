@@ -1,0 +1,10 @@
+body{
+margin-left: 35%;
+background-image: url('http://data.whicdn.com/images/268320941/original.gif');
+}
+h1{
+  background-color: orange;
+  color:purple;
+  margin-right: 50%;
+  border: 6px orange dashed;
+}

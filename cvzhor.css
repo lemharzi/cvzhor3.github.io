@@ -1,0 +1,84 @@
+/*header{
+  color: purple;
+margin-right: 20%;
+}
+h1{
+  background-color:purple;
+  margin-right: 200px;
+  color:orange;
+  font-style: oblique;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 30px;
+  border: 11px orange dotted;
+}
+img{
+  border: 6px pink dashed;
+}
+body{
+  background-image: url('https://media.giphy.com/media/fJ1eCBjmMoEvu/giphy.gif');
+  margin-left: 20%;
+}
+ span{
+line-height: 40px;
+ }
+footer{
+    background-color: purple;
+    margin-right:300px;
+    margin-top: 30px;
+    border: 12px orange dotted;
+}
+
+a{
+color: orange;
+}
+
+h2{
+  font-size: 30px;
+  color: orange;
+  font-style: oblique;
+  font-family: monospace;
+  font-weight: bold;
+  margin-left: 35%;
+}
+li{
+  font-size: 20px;
+  color: orange;
+  font-style: oblique;
+  font-family: monospace;
+  font-weight: bold;
+  margin-left: 40%;
+}
+
+
+}
+
+*/
+body{
+  background-image: url('https://media.giphy.com/media/fJ1eCBjmMoEvu/giphy.gif');
+}
+
+.image:hover{
+  height: 250px;
+  width: 250px;
+  border: 15px dashed purple;
+}
+.image{
+  height: 350px;
+  width: 350px;
+
+}
+
+.text{
+color: purple;
+font-size: 60px;
+}
+.contact:hover{
+  height: 250px;
+  width: 250px;
+  border: 15px dashed purple;
+}
+.contact{
+  height: 200px;
+  width: 200px;
+}
